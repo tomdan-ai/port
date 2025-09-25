@@ -34,4 +34,40 @@ nav p {
 }
 
 
+.main {
+    border: solid 5px black;
+    height: 4489px;
+}
 
+h1 {
+    font-family: Crete Round;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 81.5px;
+    letter-spacing: 0%;
+    color: #F55800;
+    width: 566px;
+    height: 160px;
+}
+
+h2 {
+font-family: Inter;
+font-weight: 500;
+font-size: 32px;
+line-height: 44px;
+letter-spacing: 0%;
+vertical-align: middle;
+}
+
+.description {
+font-family: Inter;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0%;
+width: 566;
+height: 123;
+opacity: 1;
+
+
+}
